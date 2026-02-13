@@ -621,7 +621,6 @@ public:
 		return GetDifferenceInDays(DateOfBirth, clsDate::GetSystemDate(), true);
 	}
 
-
 	static clsDate IncreaseDateByOneWeek(clsDate& Date)
 	{
 		for (int i = 1; i <= 7; i++)
