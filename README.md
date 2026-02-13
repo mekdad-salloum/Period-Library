@@ -101,9 +101,3 @@ g++ main.cpp -o clsPeriodApp.exe
 clsPeriodApp.exe
 ```
 ---
-
-## 👨‍💻 Author
-
-Developed as a practical C++ Period utility project for learning and algorithm practice.
-
-If you like the project, consider ⭐ starring the repository!
